@@ -1,1 +1,4 @@
 teszttxt
+ teszt
+test 2
+auto
